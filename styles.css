@@ -14,8 +14,10 @@ body {
       /* margin-left: 139px; */
 
 position: absolute; /*inorder to overlap the image*/
-width: 369px;
-height: 649px;
+/* width: 369px;
+height: 649px; */
+  width: 317px;
+    height: 575px;
 
 }
 
